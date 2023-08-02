@@ -1,0 +1,8 @@
+D:\Admin-DL\VisualStudio_codeCsharp\CK_KTLT\CK_KTLT\obj\Debug\CK_KTLT.csproj.AssemblyReference.cache
+D:\Admin-DL\VisualStudio_codeCsharp\CK_KTLT\CK_KTLT\obj\Debug\CK_KTLT.csproj.SuggestedBindingRedirects.cache
+D:\Admin-DL\VisualStudio_codeCsharp\CK_KTLT\CK_KTLT\obj\Debug\CK_KTLT.csproj.CoreCompileInputs.cache
+D:\Admin-DL\VisualStudio_codeCsharp\CK_KTLT\CK_KTLT\bin\Debug\CK_KTLT.exe.config
+D:\Admin-DL\VisualStudio_codeCsharp\CK_KTLT\CK_KTLT\bin\Debug\CK_KTLT.exe
+D:\Admin-DL\VisualStudio_codeCsharp\CK_KTLT\CK_KTLT\bin\Debug\CK_KTLT.pdb
+D:\Admin-DL\VisualStudio_codeCsharp\CK_KTLT\CK_KTLT\obj\Debug\CK_KTLT.exe
+D:\Admin-DL\VisualStudio_codeCsharp\CK_KTLT\CK_KTLT\obj\Debug\CK_KTLT.pdb

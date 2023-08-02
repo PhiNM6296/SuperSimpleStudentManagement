@@ -1,0 +1,11 @@
+Name: Nguyen Minh Phi |DB: 05/29/2002 |School: Toan Ung dung va Tin hoc |Class: MI2-01 |ID: 20206296
+Name: Nguyen Van A |DB: 1/1/2002 |School: Toan Ung dung va Tin hoc |Class: MI2-01 |ID: 20200000
+Name: Nguyen Van B |DB: 2/1/2002 |School: Toan Ung dung va Tin hoc |Class: MI2-01 |ID: 20200001
+Name: Nguyen Van C |DB: 3/1/2002 |School: Toan Ung dung va Tin hoc |Class: MI2-01 |ID: 20200002
+Name: Nguyen Van D |DB: 4/1/2002 |School: Toan Ung dung va Tin hoc |Class: MI2-01 |ID: 20200003
+Name: Nguyen Van E |DB: 1/5/2002 |School: Toan Ung dung va Tin hoc |Class: MI2-01 |ID: 20200004
+Name: Nguyen Van F |DB: 1/6/2002 |School: Toan Ung dung va Tin hoc |Class: MI2-01 |ID: 20200005
+Name: Nguyen Van G |DB: 1/7/2002 |School: Toan Ung dung va Tin hoc |Class: MI2-02 |ID: 20200006
+Name: Nguyen Van H |DB: 5/2/2002 |School: Toan Ung dung va Tin hoc |Class: MI2-02 |ID: 20200007
+Name: Nguyen Van I |DB: 3/5/2002 |School: Toan Ung dung va Tin hoc |Class: MI2-02 |ID: 20200008
+Name: Nguyen Van K |DB: 1/10/2002 |School: Toan Ung dung va Tin hoc |Class: MI2-02 |ID: 20200004
